@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\ProjectDEV\\#ExPj_MVC\\4-4 UsingMultipleModels\\4-4 UsingMultipleModels.csproj": {}
+  },
+  "projects": {
+    "E:\\ProjectDEV\\#ExPj_MVC\\4-4 UsingMultipleModels\\4-4 UsingMultipleModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ProjectDEV\\#ExPj_MVC\\4-4 UsingMultipleModels\\4-4 UsingMultipleModels.csproj",
+        "projectName": "4-4 UsingMultipleModels",
+        "projectPath": "E:\\ProjectDEV\\#ExPj_MVC\\4-4 UsingMultipleModels\\4-4 UsingMultipleModels.csproj",
+        "packagesPath": "C:\\Users\\KeNG\\.nuget\\packages\\",
+        "outputPath": "E:\\ProjectDEV\\#ExPj_MVC\\4-4 UsingMultipleModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KeNG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

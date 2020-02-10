@@ -1,0 +1,30 @@
+E:\ProjectDEV\ExPj_MVC\Ex_7_1  UsingAlert\bin\Debug\netcoreapp2.2\Ex_7_1  UsingAlert.deps.json
+E:\ProjectDEV\ExPj_MVC\Ex_7_1  UsingAlert\bin\Debug\netcoreapp2.2\Ex_7_1  UsingAlert.runtimeconfig.json
+E:\ProjectDEV\ExPj_MVC\Ex_7_1  UsingAlert\bin\Debug\netcoreapp2.2\Ex_7_1  UsingAlert.runtimeconfig.dev.json
+E:\ProjectDEV\ExPj_MVC\Ex_7_1  UsingAlert\bin\Debug\netcoreapp2.2\Ex_7_1  UsingAlert.dll
+E:\ProjectDEV\ExPj_MVC\Ex_7_1  UsingAlert\obj\Debug\netcoreapp2.2\Ex_7_1  UsingAlert.csprojAssemblyReference.cache
+E:\ProjectDEV\ExPj_MVC\Ex_7_1  UsingAlert\obj\Debug\netcoreapp2.2\Ex_7_1  UsingAlert.csproj.CoreCompileInputs.cache
+E:\ProjectDEV\ExPj_MVC\Ex_7_1  UsingAlert\obj\Debug\netcoreapp2.2\Ex_7_1  UsingAlert.RazorAssemblyInfo.cache
+E:\ProjectDEV\ExPj_MVC\Ex_7_1  UsingAlert\obj\Debug\netcoreapp2.2\Ex_7_1  UsingAlert.RazorAssemblyInfo.cs
+E:\ProjectDEV\ExPj_MVC\Ex_7_1  UsingAlert\obj\Debug\netcoreapp2.2\Ex_7_1  UsingAlert.AssemblyInfoInputs.cache
+E:\ProjectDEV\ExPj_MVC\Ex_7_1  UsingAlert\obj\Debug\netcoreapp2.2\Ex_7_1  UsingAlert.AssemblyInfo.cs
+E:\ProjectDEV\ExPj_MVC\Ex_7_1  UsingAlert\obj\Debug\netcoreapp2.2\Ex_7_1  UsingAlert.TagHelpers.input.cache
+E:\ProjectDEV\ExPj_MVC\Ex_7_1  UsingAlert\obj\Debug\netcoreapp2.2\Ex_7_1  UsingAlert.TagHelpers.output.cache
+E:\ProjectDEV\ExPj_MVC\Ex_7_1  UsingAlert\obj\Debug\netcoreapp2.2\Ex_7_1  UsingAlert.RazorCoreGenerate.cache
+E:\ProjectDEV\ExPj_MVC\Ex_7_1  UsingAlert\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\ProjectDEV\ExPj_MVC\Ex_7_1  UsingAlert\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\ProjectDEV\ExPj_MVC\Ex_7_1  UsingAlert\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\ProjectDEV\ExPj_MVC\Ex_7_1  UsingAlert\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\ProjectDEV\ExPj_MVC\Ex_7_1  UsingAlert\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\ProjectDEV\ExPj_MVC\Ex_7_1  UsingAlert\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\ProjectDEV\ExPj_MVC\Ex_7_1  UsingAlert\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\ProjectDEV\ExPj_MVC\Ex_7_1  UsingAlert\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\ProjectDEV\ExPj_MVC\Ex_7_1  UsingAlert\obj\Debug\netcoreapp2.2\Ex_7_1  UsingAlert.RazorTargetAssemblyInfo.cache
+E:\ProjectDEV\ExPj_MVC\Ex_7_1  UsingAlert\obj\Debug\netcoreapp2.2\Ex_7_1  UsingAlert.RazorTargetAssemblyInfo.cs
+E:\ProjectDEV\ExPj_MVC\Ex_7_1  UsingAlert\bin\Debug\netcoreapp2.2\Ex_7_1  UsingAlert.pdb
+E:\ProjectDEV\ExPj_MVC\Ex_7_1  UsingAlert\bin\Debug\netcoreapp2.2\Ex_7_1  UsingAlert.Views.dll
+E:\ProjectDEV\ExPj_MVC\Ex_7_1  UsingAlert\bin\Debug\netcoreapp2.2\Ex_7_1  UsingAlert.Views.pdb
+E:\ProjectDEV\ExPj_MVC\Ex_7_1  UsingAlert\obj\Debug\netcoreapp2.2\Ex_7_1  UsingAlert.Views.pdb
+E:\ProjectDEV\ExPj_MVC\Ex_7_1  UsingAlert\obj\Debug\netcoreapp2.2\Ex_7_1  UsingAlert.dll
+E:\ProjectDEV\ExPj_MVC\Ex_7_1  UsingAlert\obj\Debug\netcoreapp2.2\Ex_7_1  UsingAlert.pdb
+E:\ProjectDEV\ExPj_MVC\Ex_7_1  UsingAlert\obj\Debug\netcoreapp2.2\Ex_7_1  UsingAlert.csproj.CopyComplete

@@ -1,0 +1,49 @@
+﻿@model IEnumerable<Ex_5_4_UsingViewData.Models.Customer>
+
+@{
+    ViewData["Title"] = "Index";
+
+    // ประกาศตัวแปร แบบ ienum ให้รับค่า จาก viewdata หล้งจากแปลง
+    IEnumerable<Customer> Cst = ViewData["CustomerList"] as IEnumerable<Customer>;
+
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in (IEnumerable<Customer>)ViewData["CustomerList"]) {
+        <tr>
+            <td>
+                @item.CustomerID
+            </td>
+            <td>
+                @item.FullName
+            </td>
+            <td>
+                @item.Address
+            </td>
+            <td>
+           
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

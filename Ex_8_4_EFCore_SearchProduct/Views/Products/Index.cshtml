@@ -1,0 +1,28 @@
+﻿<!--อ้างอิง -->
+@model IEnumerable<Ex_8_4_EFCore_SearchProduct.Model.db.Products>  
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<!-- ลิงค์ กลับไปที่ Controler/ method index-->
+<h2><a href="/Home/Index">กลับหน้าแรก</a></h2>
+
+<table class="table">
+    <tr>
+        <th>รหัสสินค้า</th>
+        <th>ชื่อสินค้า</th>
+        <th>ราคาสินค้า</th>
+    </tr>
+    
+    @foreach (var item in Model) //<!--วนลูป write html-->
+    {
+        <tr>
+            <td>@item.ProductId</td>
+            <td>@item.ProductName</td>
+            <td>@item.UnitPrice</td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,32 @@
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\bin\Debug\netcoreapp2.2\4-4 UsingMultipleModels.deps.json
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\bin\Debug\netcoreapp2.2\4-4 UsingMultipleModels.runtimeconfig.json
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\bin\Debug\netcoreapp2.2\4-4 UsingMultipleModels.runtimeconfig.dev.json
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\bin\Debug\netcoreapp2.2\4-4 UsingMultipleModels.dll
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\obj\Debug\netcoreapp2.2\4-4 UsingMultipleModels.csprojAssemblyReference.cache
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\obj\Debug\netcoreapp2.2\4-4 UsingMultipleModels.csproj.CoreCompileInputs.cache
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\obj\Debug\netcoreapp2.2\4-4 UsingMultipleModels.RazorAssemblyInfo.cache
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\obj\Debug\netcoreapp2.2\4-4 UsingMultipleModels.RazorAssemblyInfo.cs
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\obj\Debug\netcoreapp2.2\4-4 UsingMultipleModels.AssemblyInfoInputs.cache
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\obj\Debug\netcoreapp2.2\4-4 UsingMultipleModels.AssemblyInfo.cs
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\obj\Debug\netcoreapp2.2\4-4 UsingMultipleModels.TagHelpers.input.cache
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\obj\Debug\netcoreapp2.2\4-4 UsingMultipleModels.TagHelpers.output.cache
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\obj\Debug\netcoreapp2.2\4-4 UsingMultipleModels.RazorCoreGenerate.cache
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\obj\Debug\netcoreapp2.2\4-4 UsingMultipleModels.RazorTargetAssemblyInfo.cache
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\obj\Debug\netcoreapp2.2\4-4 UsingMultipleModels.RazorTargetAssemblyInfo.cs
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\bin\Debug\netcoreapp2.2\4-4 UsingMultipleModels.pdb
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\bin\Debug\netcoreapp2.2\4-4 UsingMultipleModels.Views.dll
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\bin\Debug\netcoreapp2.2\4-4 UsingMultipleModels.Views.pdb
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\obj\Debug\netcoreapp2.2\4-4 UsingMultipleModels.Views.pdb
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\obj\Debug\netcoreapp2.2\4-4 UsingMultipleModels.dll
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\obj\Debug\netcoreapp2.2\4-4 UsingMultipleModels.pdb
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\obj\Debug\netcoreapp2.2\4-4 UsingMultipleModels.csproj.CopyComplete
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\obj\Debug\netcoreapp2.2\Razor\Views\Home\ByViewModel.g.cshtml.cs
+E:\ProjectDEV\#ExPj_MVC\4-4 UsingMultipleModels\obj\Debug\netcoreapp2.2\Razor\Views\Home\ByViewData.g.cshtml.cs

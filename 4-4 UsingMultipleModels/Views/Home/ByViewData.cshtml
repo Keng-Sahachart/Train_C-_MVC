@@ -1,0 +1,55 @@
+﻿@using _4_4_UsingMultipleModels.Models;
+
+@{
+    ViewData["Title"] = "ByViewData";
+
+
+    IEnumerable<Customers> customers = ViewData["AllCustomers"] as IEnumerable<Customers>; // ? ทำไม ต้อง as ด้วย
+    IEnumerable<Products> products = ViewData["AllProducts"] as IEnumerable<Products>;
+}
+
+<h1>ByViewData</h1>
+
+<h1> แบบ ViewModel</h1>
+<ul>
+    <li> ต้องทำการรับค่าในหน้า View ก่อน โดยไปสั่ง ไปสั่งรัน method ใน control home อีกที แล้วส่งค่ากลับมา </li>
+    <li> รับมาเป็น  IEnumerable เพื่อไปวนลูป Foreach </li>
+    <li> ในหนังสือ บอกว่า คล้ายกับ viewBag คงเพราะมันไม่ต้องประกาศ ตัวแปรรับค่า เหมือนกัน แค่ เรียกชื่อรับค่ามาแสดงได้เลย </li>
+</ul>
+
+<table border="1">
+    <tr>
+        <th>รหัสลูกค้า</th>
+        <th>ชื่อ-สกุล</th>
+        <th>ที่อยู่</th>
+    </tr>
+
+    @foreach (var item in customers)
+    {
+        <tr>
+            <td>@item.CustomerID</td>
+            <td>@item.FullName</td>
+            <td>@item.Address</td>
+        </tr>
+    }
+</table>
+<br />
+
+<table border="1">
+    <tr>
+        <th>รหัสสินค้า</th>
+        <th>ชื่อสินค้า</th>
+        <th>ราคา</th>
+    </tr>
+
+    @foreach (var item in products)
+    {
+        <tr>
+            <td>@item.ProductID</td>
+            <td>@item.ProductName</td>
+            <td>@item.ProductPrice</td>
+        </tr>
+    }
+</table>
+
+

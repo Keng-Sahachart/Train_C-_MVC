@@ -1,0 +1,51 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1> แบบ ViewBag</h1>
+
+    ใช้แบบนี้ Auto Complete หรือ intelisense ไม่ทำงาน
+    เรียกใช้แบบ เป็น .Property
+    แต่ต้องพิมพ์ให้ถูกเอง ถ้าสะกดผิด ก็ใช้ไม่ได้เลย
+
+
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<table border="1">
+    <tr>
+        <th>รหัส</th>
+        <th>ชื่อ-สกุล</th>
+        <th>ที่อยู่</th>
+    </tr>
+
+    @foreach (var item in ViewBag.AllCustomers)
+    {
+        <tr>
+            <td>@item.CustomerID</td>
+            <td>@item.FullName</td>
+            <td>@item.Address</td>
+        </tr>
+    }
+</table>
+<br />
+
+<table border="1">
+    <tr>
+        <th>รหัสสินค้า</th>
+        <th>ชื่อสินค้า</th>
+        <th>ราคา</th>
+    </tr>
+
+    @foreach (var item in ViewBag.AllProducts)
+    {
+        <tr>
+            <td>@item.ProductID</td>
+            <td>@item.ProductName</td>
+            <td>@item.ProductPrice</td>
+        </tr>
+    }
+</table>

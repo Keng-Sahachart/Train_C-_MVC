@@ -1,0 +1,154 @@
+﻿@model Ex_9_0_CrudCore.Models.db.Products
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+
+@* แบบ เดิม
+        <div class="card col-md-6 border-success">
+        <h4>Products</h4>
+        <hr />
+        <dl class="row">
+            <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.ProductName)
+            </dt>
+            <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.ProductName)
+            </dd>
+            <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.QuantityPerUnit)
+            </dt>
+            <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.QuantityPerUnit)
+            </dd>
+            <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.UnitPrice)
+            </dt>
+            <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.UnitPrice)
+            </dd>
+            <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.UnitsInStock)
+            </dt>
+            <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.UnitsInStock)
+            </dd>
+            <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.UnitsOnOrder)
+            </dt>
+            <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.UnitsOnOrder)
+            </dd>
+            <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.ReorderLevel)
+            </dt>
+            <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.ReorderLevel)
+            </dd>
+            <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.Discontinued)
+            </dt>
+            <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.Discontinued)
+            </dd>
+            <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.NewData)
+            </dt>
+            <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.NewData)
+            </dd>
+            <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.Category)
+            </dt>
+            <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.Category.CategoryName)
+            </dd>
+            <dt class = "col-sm-2">
+                @Html.DisplayNameFor(model => model.Supplier)
+            </dt>
+            <dd class = "col-sm-10">
+                @Html.DisplayFor(model => model.Supplier.CompanyName)
+            </dd>
+        </dl>
+    </div>*@
+<h4>รายละเอียด Products</h4>
+<hr />
+<div class="card col-md-6 border-success">
+
+    <div class="card-header border-success">
+        <h2 class="alert-success">
+            @Html.DisplayFor(Model => Model.ProductId):
+            @Html.DisplayFor(model => model.ProductName)
+        </h2>
+    </div>
+    <div class="card-body">
+        @*<h2 class="alert-success">
+                @Html.DisplayFor(Model => Model.ProductId):
+                @Html.DisplayFor(model => model.ProductName)
+            </h2>
+            <hr />*@
+
+        <div class="card-text">
+
+            @Html.DisplayNameFor(model => model.ProductName):
+            @Html.DisplayFor(model => model.ProductName)
+        </div>
+
+        <div class="card-text">
+            @Html.DisplayNameFor(model => model.QuantityPerUnit):
+            @Html.DisplayFor(model => model.QuantityPerUnit)
+        </div>
+
+        <div class="card-text">
+            @Html.DisplayNameFor(model => model.UnitPrice):
+            @Html.DisplayFor(model => model.UnitPrice)
+        </div>
+
+        <div class="card-text">
+            @Html.DisplayNameFor(model => model.UnitsInStock):
+            @Html.DisplayFor(model => model.UnitsInStock)
+        </div>
+
+        <div class="card-text">
+            @Html.DisplayNameFor(model => model.UnitsOnOrder):
+            @Html.DisplayFor(model => model.UnitsOnOrder)
+        </div>
+
+        <div class="card-text">
+            @Html.DisplayNameFor(model => model.ReorderLevel):
+            @Html.DisplayFor(model => model.ReorderLevel)
+        </div>
+
+        <div class="card-text">
+            @Html.DisplayNameFor(model => model.Discontinued):
+            @Html.DisplayFor(model => model.Discontinued)
+        </div>
+
+        <div class="card-text">
+            @Html.DisplayNameFor(model => model.NewData):
+            @Html.DisplayFor(model => model.NewData)
+        </div>
+
+        <div class="card-text">
+            @Html.DisplayNameFor(model => model.Category):
+            @Html.DisplayFor(model => model.Category.CategoryName)
+        </div>
+
+        <div class="card-text">
+            @Html.DisplayNameFor(model => model.Supplier):
+            @Html.DisplayFor(model => model.Supplier.CompanyName)
+        </div>
+
+        @*<hr />*@
+
+    </div>
+
+    <div class="card-footer">
+        <a asp-action="Edit" asp-route-id="@Model.ProductId" class="btn btn-warning">Edit</a> |
+        <a asp-action="Index" class="btn btn-primary">Back to List</a>
+    </div>
+</div>
+

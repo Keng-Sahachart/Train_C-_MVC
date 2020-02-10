@@ -1,0 +1,60 @@
+﻿@model Ex_5_2_ValidationWithDataAnnotation.Models.User
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<h4>User</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Index">
+
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <span asp-validation-for="UserID" class="aler alert-danger"></span><br />
+        <span asp-validation-for="FullName" class="aler alert-danger"></span><br />
+        <span asp-validation-for="UserName" class="aler alert-danger"></span><br />
+        <span asp-validation-for="Passwordx" class="aler alert-danger"></span><br />
+        <span asp-validation-for="PasswordAgain" class="aler alert-info"></span>
+
+            <div class="form-group">
+                <label asp-for="UserID" class="control-label"></label>
+                <input asp-for="UserID" class="form-control" />
+                <span asp-validation-for="UserID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FullName" class="control-label"></label>
+                <input asp-for="FullName" class="form-control" />
+                <span asp-validation-for="FullName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UserName" class="control-label"></label>
+                <input asp-for="UserName" class="form-control" />
+                <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Passwordx" class="control-label"></label>
+                <input asp-for="Passwordx" class="form-control" />
+                <span asp-validation-for="Passwordx" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PasswordAgain" class="control-label"></label>
+                <input asp-for="PasswordAgain" class="form-control" />
+                <span asp-validation-for="PasswordAgain" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

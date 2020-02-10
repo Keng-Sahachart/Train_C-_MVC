@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex_7_0 Bootstrap Class Button", "Ex_7_0 Bootstrap Class Button.csproj", "{D01C510C-D28D-4835-BF72-0E25FFF445A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D01C510C-D28D-4835-BF72-0E25FFF445A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D01C510C-D28D-4835-BF72-0E25FFF445A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D01C510C-D28D-4835-BF72-0E25FFF445A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D01C510C-D28D-4835-BF72-0E25FFF445A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AC4276F-D06B-4F9B-AF2B-6C991354AD60}
+	EndGlobalSection
+EndGlobal

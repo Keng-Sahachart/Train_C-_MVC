@@ -1,0 +1,33 @@
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\bin\Debug\netcoreapp2.2\Ex_7_0 Bootstrap Class Button.deps.json
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\bin\Debug\netcoreapp2.2\Ex_7_0 Bootstrap Class Button.runtimeconfig.json
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\bin\Debug\netcoreapp2.2\Ex_7_0 Bootstrap Class Button.runtimeconfig.dev.json
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\bin\Debug\netcoreapp2.2\Ex_7_0 Bootstrap Class Button.dll
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\bin\Debug\netcoreapp2.2\Ex_7_0 Bootstrap Class Button.pdb
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\bin\Debug\netcoreapp2.2\Ex_7_0 Bootstrap Class Button.Views.dll
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\bin\Debug\netcoreapp2.2\Ex_7_0 Bootstrap Class Button.Views.pdb
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\obj\Debug\netcoreapp2.2\Ex_7_0 Bootstrap Class Button.csprojAssemblyReference.cache
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\obj\Debug\netcoreapp2.2\Ex_7_0 Bootstrap Class Button.csproj.CoreCompileInputs.cache
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\obj\Debug\netcoreapp2.2\Ex_7_0 Bootstrap Class Button.RazorAssemblyInfo.cache
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\obj\Debug\netcoreapp2.2\Ex_7_0 Bootstrap Class Button.RazorAssemblyInfo.cs
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\obj\Debug\netcoreapp2.2\Ex_7_0 Bootstrap Class Button.AssemblyInfoInputs.cache
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\obj\Debug\netcoreapp2.2\Ex_7_0 Bootstrap Class Button.AssemblyInfo.cs
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\obj\Debug\netcoreapp2.2\Ex_7_0 Bootstrap Class Button.TagHelpers.input.cache
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\obj\Debug\netcoreapp2.2\Ex_7_0 Bootstrap Class Button.TagHelpers.output.cache
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\obj\Debug\netcoreapp2.2\Ex_7_0 Bootstrap Class Button.RazorCoreGenerate.cache
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\obj\Debug\netcoreapp2.2\Ex_7_0 Bootstrap Class Button.RazorTargetAssemblyInfo.cache
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\obj\Debug\netcoreapp2.2\Ex_7_0 Bootstrap Class Button.RazorTargetAssemblyInfo.cs
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\obj\Debug\netcoreapp2.2\Ex_7_0 Bootstrap Class Button.Views.pdb
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\obj\Debug\netcoreapp2.2\Ex_7_0 Bootstrap Class Button.dll
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\obj\Debug\netcoreapp2.2\Ex_7_0 Bootstrap Class Button.pdb
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\obj\Debug\netcoreapp2.2\Ex_7_0 Bootstrap Class Button.csproj.CopyComplete
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\obj\Debug\netcoreapp2.2\Razor\Views\Home\BtnGroup.g.cshtml.cs
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\obj\Debug\netcoreapp2.2\Razor\Views\Home\Toolbar.g.cshtml.cs
+E:\ProjectDEV\ExPj_MVC\Ex_7_0 Bootstrap Class Button\obj\Debug\netcoreapp2.2\Razor\Views\Home\Alert.g.cshtml.cs
