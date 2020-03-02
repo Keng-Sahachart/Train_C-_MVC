@@ -12948,11 +12948,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\#DEV_Mvc\\ExPj_MVC\\Ex_10_1_CrudCore-Bootstrap\\Ex_10_0_CrudCore_Bootstrap.csproj",
+      "projectUniqueName": "E:\\#GitHubRepo\\Train_CSharp_MVC\\Ex_10_1_CrudCore-Bootstrap\\Ex_10_0_CrudCore_Bootstrap.csproj",
       "projectName": "Ex_10_0_CrudCore_Bootstrap",
-      "projectPath": "E:\\#DEV_Mvc\\ExPj_MVC\\Ex_10_1_CrudCore-Bootstrap\\Ex_10_0_CrudCore_Bootstrap.csproj",
+      "projectPath": "E:\\#GitHubRepo\\Train_CSharp_MVC\\Ex_10_1_CrudCore-Bootstrap\\Ex_10_0_CrudCore_Bootstrap.csproj",
       "packagesPath": "C:\\Users\\KeNG\\.nuget\\packages\\",
-      "outputPath": "E:\\#DEV_Mvc\\ExPj_MVC\\Ex_10_1_CrudCore-Bootstrap\\obj\\",
+      "outputPath": "E:\\#GitHubRepo\\Train_CSharp_MVC\\Ex_10_1_CrudCore-Bootstrap\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -12946,11 +12946,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\#DEV_Mvc\\ExPj_MVC\\01HelloCoreMVC\\HelloCoreMVC\\HelloCoreMVC.csproj",
+      "projectUniqueName": "E:\\#GitHubRepo\\Train_CSharp_MVC\\01HelloCoreMVC\\HelloCoreMVC\\HelloCoreMVC.csproj",
       "projectName": "HelloCoreMVC",
-      "projectPath": "E:\\#DEV_Mvc\\ExPj_MVC\\01HelloCoreMVC\\HelloCoreMVC\\HelloCoreMVC.csproj",
+      "projectPath": "E:\\#GitHubRepo\\Train_CSharp_MVC\\01HelloCoreMVC\\HelloCoreMVC\\HelloCoreMVC.csproj",
       "packagesPath": "C:\\Users\\KeNG\\.nuget\\packages\\",
-      "outputPath": "E:\\#DEV_Mvc\\ExPj_MVC\\01HelloCoreMVC\\HelloCoreMVC\\obj\\",
+      "outputPath": "E:\\#GitHubRepo\\Train_CSharp_MVC\\01HelloCoreMVC\\HelloCoreMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
